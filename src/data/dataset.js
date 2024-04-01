@@ -15,7 +15,7 @@ export default [
     }
   },
   {
-    "id": "elpadrino",
+    "id": "el-padrino",
     "name": "El Padrino",
     "shortDescription": "Género: Drama criminal. Protagonistas principales: Marlon Brando y Al Pacino.",
     "description": "Esta épica del cine narra la historia de la familia Corleone, liderada por el patriarca Vito Corleone. A través de una trama que mezcla lealtad, poder, y traición, la película explora las dinámicas internas y conflictos de la mafia italoamericana. Se considera una de las mayores películas en la historia del cine, influyente en el género del crimen organizado.",
@@ -207,7 +207,7 @@ export default [
   {
     "id": "taxi-driver",
     "name": "Taxi Driver",
-    "shortDescription": "Género: Drama. psicológico Protagonistas principales principales: Robert De Niro y Jodie Foster.",
+    "shortDescription": "Género: Drama. psicológico Protagonistas principales: Robert De Niro y Jodie Foster.",
     "description": "Martin Scorsese dirige esta inquietante historia de un veterano de Vietnam que desciende a la locura en el caótico Nueva York de los años 70. La película es un estudio crudo y perturbador de la soledad y la violencia, con una de las actuaciones más icónicas de De Niro. Se ha convertido en un clásico del cine estadounidense por su dirección audaz y narrativa provocativa.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/ada-lovelace.jpg",
     "facts": {
@@ -222,7 +222,7 @@ export default [
   {
     "id": "el-resplandor",
     "name": "El resplandor",
-    "shortDescription": "Género: Terror. Protagonistas principales principales: Jack Nicholson y Shelley Duvall",
+    "shortDescription": "Género: Terror. Protagonistas principales: Jack Nicholson y Shelley Duvall",
     "description": "Stanley Kubrick lleva a la pantalla el libro de Stephen King con un giro único, contando la historia de Jack Torrance, quien, junto a su familia, cuida un hotel aislado durante el invierno, solo para caer en la locura. Con su atmósfera opresiva, actuaciones memorables y simbolismo complejo, El resplandor se destaca como una obra maestra del terror psicológico.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/emmy-noether.jpg",
     "facts": {
@@ -254,7 +254,7 @@ export default [
   {
     "id": "vertigo",
     "name": "Vértigo (De entre los muertos)",
-    "shortDescription": "Género: Thriller. Protagonitas principales: James Stewart y Kim Novak.",
+    "shortDescription": "Género: Thriller. Protagonistas principales: James Stewart y Kim Novak.",
     "description": "Alfred Hitchcock explora la obsesión y el engaño en esta compleja historia de un detective retirado y su fascinación por la mujer que debe seguir. Reconocida por su uso innovador de la cámara y su atmósfera de suspense, Vértigo desafía las percepciones del espectador y se sumerge en las profundidades de la psique humana, considerada una de las mayores obras de Hitchcock",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjorie-lee-browne.jpg",
     "facts": {
@@ -270,7 +270,7 @@ export default [
   {
     "id": "el-graduado",
     "name": "El Graduado",
-    "shortDescription": "Género: Comedia, Drama. Protagonistas principales principales: Dustin Hoffman y Anne Bancroft.",
+    "shortDescription": "Género: Comedia, Drama. Protagonistas principales: Dustin Hoffman y Anne Bancroft.",
     "description": "Esta película icónica de Mike Nichols captura el desasosiego de la juventud de los años 60 a través de la historia de Benjamin Braddock, recién graduado que es seducido por la señora Robinson. Con su banda sonora memorable de Simon & Garfunkel y su final ambiguo, \"El Graduado\" se convierte en un símbolo generacional y un clásico del cine estadounidense.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shakuntala-devi.jpg",
     "facts": {
@@ -302,7 +302,7 @@ export default [
   {
     "id": "apocalypse-now",
     "name": "Apocalypse Now",
-    "shortDescription": "Género: Drama. Protagonistas principales principales: Martin Sheen y Marlon Bran do.",
+    "shortDescription": "Género: Drama. Protagonistas principales: Martin Sheen y Marlon Bran do.",
     "description": "Francis Ford Coppola ofrece una visión surreal y perturbadora de la guerra de Vietnam, inspirada en \"El corazón de las tinieblas\" de Joseph Conrad. La odisea de un capitán enviado a asesinar a un coronel renegado se transforma en un viaje al corazón de las tinieblas de Joseph Conrad. La odisea de un capitán enviado a asesinar a un coronel renegado se transforma en un viaje al abismo de la locura y la deshumanización. Con su poderosa cinematografía y su reflexión sobre los horrores de la guerra, \"Apocalypse Now\" se convierte en una experiencia cinematográfica inolvidable.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/yoko-shimomura.jpg",
     "facts": {
@@ -334,8 +334,8 @@ export default [
   {
     "id": "el-rey-leon",
     "name": "El Rey León",
-    "shortDescription": "Informática pionera, co-creadora del lenguaje de programación Smalltalk.",
-    "description": "Informática estadounidense reconocida por su influyente trabajo en la investigación y desarrollo de la programación orientada a objetos. Su contribución más destacada es la creación del lenguaje de programación Smalltalk, que revolucionó la forma en que se desarrollan software y sistemas informáticos. Goldberg ha sido una defensora incansable de la usabilidad y la accesibilidad en la informática, asegurando que las aplicaciones informáticas sean más amigables para los usuarios. Su trabajo ha allanado el camino para una programación más intuitiva y eficiente, y su legado perdura en la industria de la tecnología.",
+    "shortDescription": "Género: Drama familiar.  Voces principales: Matthew Broderick y Jeremy Irons.",
+    "description": "Esta joya animada de Disney, dirigida por Roger Allers y Rob Minkoff, sigue el viaje de Simba, un joven león destinado a convertirse en rey. Con su impresionante animación, música inolvidable y una narrativa conmovedora, \"El Rey León\" se ha convertido en un clásico atemporal que trasciende generaciones.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/adele-goldberg.jpg",
     "facts": {
       "releaseYear": "1994",
@@ -350,7 +350,7 @@ export default [
   {
     "id": "el-club-de-la-pelea",
     "name": "El club de la pelea",
-    "shortDescription": "Género: Drama. Protagonistas principales principales: Brad Pitt y Edward Norton",
+    "shortDescription": "Género: Drama. Protagonistas principales: Brad Pitt y Edward Norton",
     "description": "David Fincher presenta una narrativa visceral sobre un insomne y un carismático vendedor de jabón que forman un club de lucha clandestino. La película, llena de simbolismo y crítica social, desafía las convenciones narrativas y despierta reflexiones sobre la identidad y el materialismo en la sociedad contemporánea.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/barbara-liskov.jpg",
     "facts": {
@@ -382,7 +382,7 @@ export default [
   {
     "id": "el-club-de-las-cinco",
     "name": "El club de los cinco",
-    "shortDescription": "Género: Comedia, drama. Protagonistas principales principales: Emilio Estevez y Molly Ringwald.",
+    "shortDescription": "Género: Comedia, drama. Protagonistas principales: Emilio Estevez y Molly Ringwald.",
     "description": "John Hughes capta la esencia de la adolescencia en esta película que sigue a cinco estudiantes durante un sábado de detención. Con su humor inteligente y personajes auténticos, \"El club de los cinco\" se ha convertido en un ícono del cine adolescente, explorando temas universales de identidad, pertenencia y rebelión.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/margaret-hamilton.jpg",
     "facts": {
@@ -398,7 +398,7 @@ export default [
   {
     "id": "lo-que-el-viento-se-llevo",
     "name": "Lo que el viento se llevó",
-    "shortDescription": "Género: Drama, Romance. Protagonistas principales principales: Clark Gable y Vivien Leigh.",
+    "shortDescription": "Género: Drama, Romance. Protagonistas principales: Clark Gable y Vivien Leigh.",
     "description": "\"Lo que el viento se llevó\" merece mención por su impacto perdurable. Dirigida por Victor Fleming, la película sigue la vida de Scarlett O'Hara durante y después de la Guerra Civil estadounidense. Con su épica historia de amor y su retrato de la vida en el Sur durante una época tumultuosa, se ha convertido en un clásico del cine.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/radia-perlman.jpg",
     "facts": {
@@ -430,7 +430,7 @@ export default [
   {
     "id": "tiburon",
     "name": "Tiburón",
-    "shortDescription": "Género: Suspenso. Protagonistas principales princiales: Roy Scheider y Richard Dreyfuss.",
+    "shortDescription": "Género: Suspenso. Protagonistas princiales: Roy Scheider y Richard Dreyfuss.",
     "description": "Steven Spielberg desencadena el terror con este clásico que sigue a un pequeño pueblo acosado por un tiburón asesino. Con su tensión implacable, efectos especiales innovadores y música icónica de John Williams, \"Tiburón\" redefine el género del suspense y establece a Spielberg como un maestro del cine de entretenimiento.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/chien-shiung-wu.jpg",
     "facts": {
@@ -446,7 +446,7 @@ export default [
   {
     "id": "e-t-el-extraterrestre",
     "name": "E.T., el extraterrestre",
-    "shortDescription": "Género: Ciencia-ficción. Protagonistas principales principales: Henry Thomas y Drew Barrymore.",
+    "shortDescription": "Género: Ciencia-ficción. Protagonistas principales: Henry Thomas y Drew Barrymore.",
     "description": "Steven Spielberg cautiva al público con esta tierna historia de amistad entre un niño y un extraterrestre perdido. Con su sentido de maravilla, emociones genuinas y efectos visuales impresionantes, \"E.T., el extraterrestre\" se ha convertido en un clásico querido que trasciende generaciones.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hedy-lamarr.jpg",
     "facts": {
