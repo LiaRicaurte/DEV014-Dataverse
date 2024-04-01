@@ -1,378 +1,478 @@
 export default [
   {
-    "id": "ada-lovelace",
-    "name": "Ada Lovelace",
-    "shortDescription": "Pionera en la programación, primera programadora de la historia.",
-    "description": "Una visionaria matemática británica del siglo XIX, es aclamada como la primera programadora de la historia. Su colaboración con Charles Babbage en la creación de la Máquina Analítica la llevó a desarrollar algoritmos, incluyendo el famoso \"algoritmo de Bernoulli\", destinados a ser procesados por una máquina. Su visión pionera la convirtió en una figura fundamental en la informática y la inteligencia artificial. Lovelace demostró que las computadoras podían ir más allá de simples cálculos matemáticos, anticipando un mundo donde la programación sería esencial en la resolución de problemas complejos, dejando una huella imborrable en la ciencia y la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/ada-lovelace.jpg",
+    "id": "psicosis",
+    "name": "Psicosis",
+    "shortDescription": "Género: Thriller. Protagonistas principales: Anthony Perkins y Janet Leigh.",
+    "description": "Esta obra maestra de suspenso narra la historia de Marion Crane, quien tras robar dinero de su empleo, se hospeda en el remoto motel Bates, regentado por Norman Bates. La película es célebre por su escalofriante escena de la ducha y por su exploración de la psique humana, convirtiéndose en un pilar del género de terror y suspense.",
+    "imageUrl": "https://i.pinimg.com/564x/5a/e6/bb/5ae6bb2f497336ac5ce52064895ce1ea.jpg",
     "facts": {
-      "yearOfBirth": "1815",
-      "yearOfDeath": "1852",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Ciencia de la Computación"
+      "releaseYear": "1960",
+      "durationTime": "109 min",
+      "classification": "18+"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-de-ada-lovelace2c-la-primera-prog/650a1eff8ff04b88833d5cdef0309441"
+      "producers": "Alfred Hitchcock"
     }
   },
   {
-    "id": "emmy-noether",
-    "name": "Emmy Noether",
-    "shortDescription": "Matemática destacada, teorema fundamental en álgebra abstracta.",
-    "description": "Una brillante matemática alemana, revolucionó la física teórica con sus contribuciones al teorema de conservación de la energía y el teorema de Noether, fundamentales en la teoría de la relatividad y la mecánica cuántica. A pesar de los obstáculos que enfrentó como mujer en la academia, sus investigaciones en álgebra abstracta y teoría de grupos son fundamentales en la física moderna. Su capacidad para unificar conceptos matemáticos y físicos marcó un hito en la historia de la ciencia, allanando el camino para futuras generaciones de científicas.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/emmy-noether.jpg",
+    "id": "elpadrino",
+    "name": "El Padrino",
+    "shortDescription": "Género: Drama criminal. Protagonistas principales: Marlon Brando y Al Pacino.",
+    "description": "Esta épica del cine narra la historia de la familia Corleone, liderada por el patriarca Vito Corleone. A través de una trama que mezcla lealtad, poder, y traición, la película explora las dinámicas internas y conflictos de la mafia italoamericana. Se considera una de las mayores películas en la historia del cine, influyente en el género del crimen organizado.",
+    "imageUrl": "",
     "facts": {
-      "yearOfBirth": "1882",
-      "yearOfDeath": "1935",
-      "birthPlace": "Erlangen, Alemania",
-      "mainField": "Matemáticas"
+      "releaseYear": "1972",
+      "durationTime": "175 min",
+      "classification": "18+"
+       
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-an-image-of-of-a-german-woman2c-a-pioneering/6510ddb1e8254b928b8f8f1d5e95fea4"
+      "producers": "Albert S. Ruddy"
     }
   },
   {
-    "id": "hypatia-de-alejandria",
-    "name": "Hypatia de Alejandría",
-    "shortDescription": "Matemática y filósofa en la antigua Alejandría.",
-    "description": "Filósofa y matemática en la antigua Alejandría, desafió las normas de género de su época al destacar en una sociedad dominada por hombres. Su legado incluye importantes contribuciones a la geometría y la astronomía, así como su destacado papel como maestra y defensora del conocimiento en una época de agitación política. Hypatia demostró que las mujeres podían sobresalir en campos intelectuales y su valentía al mantener sus creencias filosóficas la convierte en un símbolo de resistencia y sabiduría en la historia de la ciencia.",
+    "id": "la-lista-de-schindler",
+    "name": "La lista de Schindler",
+    "shortDescription": "Género: Drama histórico. Protagonistas principales: Liam Neeson.",
+    "description": "Esta impactante narración se basa en la verdadera historia de Oskar Schindler, un empresario alemán que salvó a más de mil judíos polacos durante el Holocausto al emplearlos en sus fábricas. La película es un testimonio poderoso del horror del Holocausto y de la extraordinaria humanidad de algunos individuos en medio de la barbarie.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hypatia-de-alejandria.jpg",
     "facts": {
-      "yearOfBirth": "circa 360",
-      "yearOfDeath": "415",
-      "birthPlace": "Alejandría, Egipto",
-      "mainField": "Matemáticas, Filosofía"
+      "releaseYear": "1993",
+      "durationTime": "195 min",
+      "classification": "18+"
+       
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-a-vivid-digital-artwork-or-painting-that-de/6510df0ebe1a4807af22175452761e1a"
+      "producers": "Steven Spielberg, Gerald R. Molen y Branko Lustig"
     }
   },
   {
-    "id": "marjorie-lee-browne",
-    "name": "Marjorie Lee Browne",
-    "shortDescription": "Matemática, contribuyó a la teoría de números.",
-    "description": "Matemática estadounidense, destacó en una época en la que las mujeres afroamericanas enfrentaban múltiples barreras en la educación superior. No solo obtuvo su doctorado en matemáticas, sino que también se convirtió en una destacada educadora, promoviendo la diversidad en las ciencias matemáticas y desafiando la discriminación racial y de género. Su compromiso con la educación y su capacidad para inspirar a futuras generaciones la convierten en un modelo a seguir para las mujeres en la ciencia, dejando una huella perdurable en la historia académica.",
+    "id": "2001-una-odisea-del-espacio",
+    "name": "2001: Una odisea del espacio",
+    "shortDescription": "Género: Ciencia ficción, exploración espacial. Protagonistas principales: Keir Dullea.",
+    "description": "Esta película es un viaje a través de la evolución humana desde el pasado al futuro lejano, explorando temas de inteligencia artificial, extraterrestres y la inmortalidad. Con su innovador uso de efectos visuales, música y un ritmo deliberadamente pausado, desafía al espectador a interpretar su significado profundo y sus enigmáticos símbolos, convirtiéndose en un hito de la ciencia ficción.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjorie-lee-browne.jpg",
     "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "1979",
-      "birthPlace": "Memphis, Estados Unidos",
-      "mainField": "Matemáticas"
+      "releaseYear": "1968",
+      "durationTime": "149 min",
+      "classification": "Todo público"
+       
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/design-an-inspiring-and-historically-accurate-imag/6510df7e7bb745f69d67f695441607a8"
+      "producers": "Stanley Kubrick"
     }
   },
   {
-    "id": "shakuntala-devi",
-    "name": "Shakuntala Devi",
-    "shortDescription": "Matemática prodigio, conocida como la 'Calculadora Humana'.",
-    "description": "Conocida como \"la bruja de las matemáticas\" de la India, dejó una marca indeleble en el mundo de los números. Su capacidad mental asombrosa la llevó a resolver complejos cálculos matemáticos mentalmente en cuestión de segundos, estableciendo récords mundiales. Además de su talento innato, Devi promovió activamente la educación matemática y luchó por la igualdad de género en un país donde las mujeres enfrentaban desafíos en la ciencia y la educación. Su legado destaca el poder de la mente humana y la importancia de la igualdad de oportunidades en la ciencia.",
+    "id": "star-wars",
+    "name": "Star Wars: Episodio IV - Una nueva esperanza",
+    "shortDescription": "Género: Aventura espacial. Protagonistas principales: Mark Hamill y Carrie Fisher.",
+    "description": "Esta revolucionaria película combina ciencia ficción, fantasía y acción para contar la historia de Luke Skywalker en su lucha contra el malvado Imperio Galáctico. Junto a personajes icónicos como Han Solo y la princesa Leia, lidera una rebelión para restaurar la libertad en la galaxia. Su innovador uso de efectos especiales, diseño de sonido y música la establecen como una piedra angular del cine moderno.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shakuntala-devi.jpg",
     "facts": {
-      "yearOfBirth": "1929",
-      "yearOfDeath": "2013",
-      "birthPlace": "Bangalore, India",
-      "mainField": "Matemáticas"
+      "releaseYear": "1977",
+      "durationTime": "121 min",
+      "classification": "Bajo supervisión"
+       
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
+      "producers": "Gary Kurtz"
     }
   },
   {
-    "id": "sofia-kovalevskaya",
-    "name": "Sofia Kovalevskaya",
-    "shortDescription": "Matemática y escritora, contribuyó a la teoría de funciones.",
-    "description": "Matemática rusa del siglo XIX, dejó una marca indeleble en la ciencia del siglo XIX al desafiar las barreras de género. Como matemática rusa, superó las restricciones sociales de su época para convertirse en la primera mujer en obtener un doctorado en matemáticas en Europa. Sus contribuciones a la teoría de las ecuaciones diferenciales y la mecánica revolucionaron la disciplina, abriendo nuevas perspectivas en el análisis matemático. Su destacada membresía en la Academia de Ciencias de Suecia marcó un hito en la historia de las mujeres en la ciencia.",
+    "id": "pulp-fiction",
+    "name": "Pulp Fiction",
+    "shortDescription": "Género: Crimen y drama. Protagonistas principales: John Travolta y Uma Thurman.",
+    "description": "Quentin Tarantino reinventa el cine de crimen con esta narrativa entrelazada que explora las vidas de dos asesinos a sueldo, una pareja de criminales, y un boxeador en caída. Conocida por su diálogo ingenioso, violencia estilizada, y estructura no lineal, la película se ha convertido en un culto, influenciando numerosas obras cinematográficas posteriores.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sofia-kovalevskaya.jpg",
     "facts": {
-      "yearOfBirth": "1850",
-      "yearOfDeath": "1891",
-      "birthPlace": "Moscú, Rusia",
-      "mainField": "Matemáticas"
+      "releaseYear": "1994",
+      
+      "classification": "18+"
+     "durationTime": "154 min",  
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
+      "producers": "Lawrence Bender"
     }
   },
   {
-    "id": "yoko-shimomura",
-    "name": "Yoko Shimomura",
-    "shortDescription": "Compositora de música, destacada en la industria de los videojuegos.",
-    "description": "Compositora japonesa, es una figura destacada en la ciencia de la música y el arte sonoro. Aunque no se dedica a la ciencia en el sentido tradicional, su trabajo en la composición musical ha requerido un profundo entendimiento de la teoría musical y la tecnología de audio. Ha contribuido de manera significativa a la industria de los videojuegos, componiendo icónicas bandas sonoras que han enriquecido la experiencia de juego. Su éxito en un campo donde las mujeres estaban subrepresentadas la convierte en un modelo a seguir, incluso en campos no convencionales como la composición musical.",
+    "id": "el-bueno-el-feo-y-el-malo",
+    "name": "El bueno, el feo y el malo",
+    "shortDescription": "Género: Western. Protagonistas principales: Clint Eastwood.",
+    "description": "Esta película es el tercer film de la trilogía del dólar y se considera uno de los mejores westerns de todos los tiempos. La trama sigue a tres pistoleros que compiten por encontrar un tesoro enterrado durante la Guerra Civil de EE.UU. Con una música icónica de Ennio Morricone, la película es famosa por sus largos duelos y su estilo cinematográfico innovador.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/yoko-shimomura.jpg",
     "facts": {
-      "yearOfBirth": "1967",
-      "birthPlace": "Hyogo, Japón",
-      "mainField": "Composición Musical, Video Juegos"
+      "releaseYear": "1966",
+      "durationTime": "161 min",
+      "classification": "18+"
+       
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/yoko-shimomura-making-music-for-a-video-game-in-19/6510e40dd1eb45d0906e8c1f4bb601d3"
+      "producers": "Alberto Grimaldi"
     }
   },
   {
-    "id": "maryam-mirzakhani",
-    "name": "Maryam Mirzakhani",
-    "shortDescription": "Matemática, ganadora del Premio Fields.",
-    "description": "Matemática iraní, hizo historia al convertirse en la primera mujer en ganar la Medalla Fields, el premio más prestigioso en matemáticas. Sus investigaciones en la geometría de superficies y la teoría de las superficies de Riemann han tenido un impacto duradero en la matemática pura. A lo largo de su carrera, Mirzakhani inspiró a muchas mujeres a perseguir carreras en ciencia y matemáticas, derribando las barreras de género. Su enfoque innovador y su capacidad para resolver problemas complejos la convierten en un modelo a seguir para la comunidad científica y en un símbolo de la excelencia matemática.",
+    "id": "forrest-gump",
+    "name": "Forrest Gump",
+    "shortDescription": "Género: Drama histórico. Protagonistas principales: Tom Hanks",
+    "description": "Esta película cuenta la historia de Forrest Gump, un hombre con un bajo coeficiente intelectual pero un corazón de oro, que se encuentra involucrado en varios momentos clave de la historia de Estados Unidos. A través de su inocente óptica, la película ofrece una mirada única a la cultura estadounidense del siglo XX, convirtiéndose en un fenómeno cultural y crítico.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maryam-mirzakhani.jpg",
     "facts": {
-      "yearOfBirth": "1977",
-      "yearOfDeath": "2017",
-      "birthPlace": "Teherán, Irán",
-      "mainField": "Matemáticas"
+      "releaseYear": "1994",
+      "durationTime": "142 min",
+      "classification": "13+"
+       
     },
     "extraInfo": {
-      "imageSource": "https://chalkdustmagazine.com/features/mathematics-maryam-mirzakhani/"
+      "producers": "Wendy Finerman, Steve Tisch y Steve Starkey"
     }
   },
   {
-    "id": "adele-goldberg",
-    "name": "Adele Goldberg",
+    "id": "ciudadano-kane",
+    "name": "Ciudadano Kane",
+    "shortDescription": "Género: Drama. Protagonistas principales: Orson Welles.",
+    "description": "Esta película innovadora narra la vida del magnate de prensa Charles Foster Kane. Con su uso revolucionario de narrativa no lineal, profundidad de campo en la cinematografía, y efectos visuales innovadores, es considerada por muchos como la mejor película de todos los tiempos.",
+    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/adele-goldberg.jpg",
+    "facts": {
+      "releaseYear": "1941",
+      "durationTime": "119 min",
+      "classification": "Bajo supervisión"
+       
+    },
+    "extraInfo": {
+      "producers": "Orson Welles, George Schaefer"
+    }
+  },
+  {
+    "id": "amélie",
+    "name": "Amélie",
+    "shortDescription": "Género: Comedia romántica. Protagonistas principales: Audrey Tautou.",
+    "description": "Amélie, captura la historia de una joven parisina decidida a mejorar la vida de quienes la rodean mientras lucha con su propia soledad. La película, conocida por su estética vibrante y su narrativa encantadora, es un homenaje al poder de la bondad y la imaginación, y se ha convertido en un clásico moderno del cine francés.",
+    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/barbara-liskov.jpg",
+    "facts": {
+      "releaseYear": "2001",
+      "durationTime": "122 min",
+      "classification": "18+"
+    },
+    "extraInfo": {
+      "producers": "Jean-Pierre Jeunet"
+    }
+  },
+  {
+    "id": "blade-runner",
+    "name": "Blade Runner",
+    "shortDescription": "Género: Ciencia ficción neo-noir. Protagonistas principales: Harrison Ford",
+    "description": "Esta adaptación de la novela de Philip K. Dick, presenta un futuro distópico donde un policía debe cazar replicantes fugitivos. La película es aclamada por su diseño de producción innovador y sus preguntas profundas sobre la humanidad, la identidad y la realidad, convirtiéndose en un pilar fundamental de la ciencia ficción.",
+    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/grace-hopper.jpg",
+    "facts": {
+      "releaseYear": "1982",
+      "durationTime": "117 min",
+      "classification": "18+"
+       
+    },
+    "extraInfo": {
+      "producers": "Michael Deeley"
+    }
+  },
+  {
+    "id": "casablanca",
+    "name": "Casablanca",
+    "shortDescription": "Género: Drama romántico. Protagonistas principales: Humphrey Bogart e Ingrid Bergman.",
+    "description": "Casablanca es indispensable en cualquier lista de clásicos. Esta obra maestra del director Michael Curtiz se centra en un amor imposible en el contexto de la Segunda Guerra Mundial. Su combinación de romance, política y moralidad, junto con diálogos inolvidables y actuaciones legendarias, la han convertido en uno de los filmes más amados de todos los tiempos.",
+    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/margaret-hamilton.jpg",
+    "facts": {
+      "releaseYear": "1942",
+      "durationTime": "102 min",
+      "classification": "Bajo supervisión"  
+    },
+    "extraInfo": {
+      "producers": "Hal B. Wallis"
+    }
+  },
+  {
+    "id": "el-señor-de-los-anillos",
+    "name": "El señor de los anillos: La comunidad del anillo",
+    "shortDescription": "Género: Aventura de fantasía. Protagonistas principales: Elijah Wood.",
+    "description": "Esta primera entrega de la trilogía basada en la obra de J.R.R. Tolkien sumerge al espectador en la Tierra Media, donde Frodo Bolsón inicia su peligrosa misión para destruir el Anillo Único. Con una producción épica, efectos visuales revolucionarios y una narrativa poderosa, establece un nuevo estándar para el cine de fantasía.",
+    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/radia-perlman.jpg",
+    "facts": {
+      "releaseYear": "2001",
+      "durationTime": "178 min",
+      "classification": "13+",
+       
+    },
+    "extraInfo": {
+      "producers": "Peter Jackson, Barrie M. Osborne y Fran Walsh"
+    }
+  },
+  {
+    "id": "taxi-driver",
+    "name": "Taxi Driver",
+    "shortDescription": "Género: Drama. psicológico Protagonistas principales principales: Robert De Niro y Jodie Foster.",
+    "description": "Martin Scorsese dirige esta inquietante historia de un veterano de Vietnam que desciende a la locura en el caótico Nueva York de los años 70. La película es un estudio crudo y perturbador de la soledad y la violencia, con una de las actuaciones más icónicas de De Niro. Se ha convertido en un clásico del cine estadounidense por su dirección audaz y narrativa provocativa.",
+    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/ada-lovelace.jpg",
+    "facts": {
+      "releaseYear": "1976",
+      "durationTime": "114 min",
+      "classification": "18+"
+    },
+    "extraInfo": {
+      "producers:": "Columbia Pictures"
+    }
+  },
+  {
+    "id": "el-resplandor",
+    "name": "El resplandor",
+    "shortDescription": "Género: Terror. Protagonistas principales principales: Jack Nicholson y Shelley Duvall",
+    "description": "Stanley Kubrick lleva a la pantalla el libro de Stephen King con un giro único, contando la historia de Jack Torrance, quien, junto a su familia, cuida un hotel aislado durante el invierno, solo para caer en la locura. Con su atmósfera opresiva, actuaciones memorables y simbolismo complejo, El resplandor se destaca como una obra maestra del terror psicológico.",
+    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/emmy-noether.jpg",
+    "facts": {
+      "releaseYear": "1980",
+      "durationTime": "146 min",
+      "classification": "18+",
+       
+    },
+    "extraInfo": {
+       "producers": "Stanley Kubrick"
+    }
+  },
+  {
+    "id": "los-siete-samurais",
+    "name": "Los siete samuráis",
+    "shortDescription": "Género: Drama, Acción. Potagonista principal: Toshiro Mifune.",
+    "description": "Akira Kurosawa dirige esta épica del cine japonés que narra la historia de un grupo de samuráis contratados para defender un pueblo de bandidos. Con su profundo estudio de personajes, innovadoras técnicas cinematográficas y emocionantes secuencias de batalla, la película no solo redefine el género de samuráis, sino que también ha influenciado el cine mundial.",
+    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hypatia-de-alejandria.jpg",
+    "facts": {
+      "releaseYear": "1954",
+      "durationTime": "207 min",
+      "classification": "13+",
+        
+    },
+    "extraInfo": {
+       "producers": "Akira Kurosawa"
+    }
+  },
+  {
+    "id": "vertigo",
+    "name": "Vértigo (De entre los muertos)",
+    "shortDescription": "Género: Thriller. Protagonitas principales: James Stewart y Kim Novak.",
+    "description": "Alfred Hitchcock explora la obsesión y el engaño en esta compleja historia de un detective retirado y su fascinación por la mujer que debe seguir. Reconocida por su uso innovador de la cámara y su atmósfera de suspense, Vértigo desafía las percepciones del espectador y se sumerge en las profundidades de la psique humana, considerada una de las mayores obras de Hitchcock",
+    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjorie-lee-browne.jpg",
+    "facts": {
+      "releaseYear": "1958",
+      "durationTime": "128 min",
+      "classification": "13+",
+       
+    },
+    "extraInfo": {
+       "producers": "Alfred Hitchcock"
+    }
+  },
+  {
+    "id": "el-graduado",
+    "name": "El Graduado",
+    "shortDescription": "Género: Comedia, Drama. Protagonistas principales principales: Dustin Hoffman y Anne Bancroft.",
+    "description": "Esta película icónica de Mike Nichols captura el desasosiego de la juventud de los años 60 a través de la historia de Benjamin Braddock, recién graduado que es seducido por la señora Robinson. Con su banda sonora memorable de Simon & Garfunkel y su final ambiguo, \"El Graduado\" se convierte en un símbolo generacional y un clásico del cine estadounidense.",
+    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shakuntala-devi.jpg",
+    "facts": {
+      "releaseYear": "1967",
+      "durationTime": "106 min",
+      "classification": "13+",
+       
+    },
+    "extraInfo": {
+       "producers": "Mike Nichols"
+    }
+  },
+  {
+    "id": "ranging-bull",
+    "name": "Ranging Bull",
+    "shortDescription": "Género: Drama. Protagonista principal: Robert De Niro.",
+    "description": "Martin Scorsese presenta la tumultuosa vida del boxeador Jake LaMotta, interpretada magistralmente por De Niro. Conocida por su potente narrativa, dirección estilística y actuaciones intensas, la película examina la violencia tanto dentro como fuera del ring, siendo aclamada como una de las mejores obras cinematográficas de Scorsese.",
+    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sofia-kovalevskaya.jpg",
+    "facts": {
+      "releaseYear": "1980",
+      "durationTime": "129 min",
+      "classification": "18+",
+       
+    },
+    "extraInfo": {
+       "producers": "Robert Chartoff, Irwin Winkler"
+    }
+  },
+  {
+    "id": "apocalypse-now",
+    "name": "Apocalypse Now",
+    "shortDescription": "Género: Drama. Protagonistas principales principales: Martin Sheen y Marlon Bran do.",
+    "description": "Francis Ford Coppola ofrece una visión surreal y perturbadora de la guerra de Vietnam, inspirada en \"El corazón de las tinieblas\" de Joseph Conrad. La odisea de un capitán enviado a asesinar a un coronel renegado se transforma en un viaje al corazón de las tinieblas de Joseph Conrad. La odisea de un capitán enviado a asesinar a un coronel renegado se transforma en un viaje al abismo de la locura y la deshumanización. Con su poderosa cinematografía y su reflexión sobre los horrores de la guerra, \"Apocalypse Now\" se convierte en una experiencia cinematográfica inolvidable.",
+    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/yoko-shimomura.jpg",
+    "facts": {
+      "releaseYear": "1979",
+      "durationTime": "153 min",
+      "classification": "18+",
+       
+    },
+    "extraInfo": {
+       "producers": "Zoetrope Studios, United Artists."
+    }
+  },
+  {
+    "id": "la-la-land",
+    "name": "La La Land",
+    "shortDescription": "Género: Musical romántico moderno. Protgonistas principales: Ryan Gosling y Emma Stone.",
+    "description": "Damien Chazelle revitaliza el género musical con esta historia de amor ambientada en Los Ángeles. La película, con su encanto nostálgico y coreografías impresionantes, captura la magia del cine clásico mientras ofrece una mirada fresca y contemporánea al romance y los sueños.",
+    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maryam-mirzakhani.jpg",
+    "facts": {
+      "releaseYear": "2016",
+      "durationTime": "128 min",
+      "classification": "13+",
+       
+    },
+    "extraInfo": {
+       "producers": "Fred Berger, Jordan Horowitz, Gary Gilbert"
+    }
+  },
+  {
+    "id": "el-rey-leon",
+    "name": "El Rey León",
     "shortDescription": "Informática pionera, co-creadora del lenguaje de programación Smalltalk.",
     "description": "Informática estadounidense reconocida por su influyente trabajo en la investigación y desarrollo de la programación orientada a objetos. Su contribución más destacada es la creación del lenguaje de programación Smalltalk, que revolucionó la forma en que se desarrollan software y sistemas informáticos. Goldberg ha sido una defensora incansable de la usabilidad y la accesibilidad en la informática, asegurando que las aplicaciones informáticas sean más amigables para los usuarios. Su trabajo ha allanado el camino para una programación más intuitiva y eficiente, y su legado perdura en la industria de la tecnología.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/adele-goldberg.jpg",
     "facts": {
-      "yearOfBirth": "1945",
-      "birthPlace": "Chicago, Estados Unidos",
-      "mainField": "Ciencias de la Computación"
+      "releaseYear": "1994",
+      "durationTime": "88 min",
+      "classification": "Para todo público",
+       
     },
     "extraInfo": {
-      "imageSource": "https://pionerasinformaticas.ujaen.es/en/computer-women-pioneers/adele-goldberg-en"
+       "producers": "Don Hahn."
     }
   },
   {
-    "id": "barbara-liskov",
-    "name": "Barbara Liskov",
-    "shortDescription": "Científica de la computación, pionera en programación orientada a objetos.",
-    "description": "Pionera de la informática, es conocida por su trabajo en la programación y la arquitectura de sistemas distribuidos. Fue la primera mujer en obtener un doctorado en ciencias de la computación en el Instituto de Tecnología de Stanford y desarrolló el lenguaje de programación CLU, que estableció fundamentos para la programación orientada a objetos. Liskov ha dejado una marca indeleble en la industria de la tecnología al liderar avances en sistemas de almacenamiento y seguridad informática. Su enfoque en la fiabilidad y la robustez ha influido en el diseño de sistemas críticos en todo el mundo.",
+    "id": "el-club-de-la-pelea",
+    "name": "El club de la pelea",
+    "shortDescription": "Género: Drama. Protagonistas principales principales: Brad Pitt y Edward Norton",
+    "description": "David Fincher presenta una narrativa visceral sobre un insomne y un carismático vendedor de jabón que forman un club de lucha clandestino. La película, llena de simbolismo y crítica social, desafía las convenciones narrativas y despierta reflexiones sobre la identidad y el materialismo en la sociedad contemporánea.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/barbara-liskov.jpg",
     "facts": {
-      "yearOfBirth": "1939",
-      "birthPlace": "Los Angeles, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "releaseYear": "1999",
+      "durationTime": "139 min",
+      "classification": "18+",
+       
     },
     "extraInfo": {
-      "imageSource": "https://medium.com/a-computer-of-ones-own/barbara-liskov-inventor-of-abstract-data-types-9f8908fdcf86"
+       "producers": "Art Linson, Ceán Chaffin, Ross Grayson Bell."
     }
   },
   {
-    "id": "grace-hopper",
-    "name": "Grace Hopper",
-    "shortDescription": "Científica de la computación, creadora del primer compilador.",
-    "description": "Una de las pioneras de la informática, es famosa por su contribución al desarrollo del primer compilador y al lenguaje de programación COBOL. Además, desafió los estereotipos de género en la década de 1940 al unirse a la Marina de los Estados Unidos y convertirse en la primera programadora de la computadora Harvard Mark I. Su legado abarca la creación de conceptos cruciales como la \"depuración de software\" y su influencia en el desarrollo de la informática moderna, estableciendo estándares para la programación de alto nivel y la innovación tecnológica.",
+    "id": "el-bueno-el-malo-y-el-raro",
+    "name": "El bueno, el malo y el raro.",
+    "shortDescription": "Género: Western, acción coreano. Protagonista principal: Song Kang-ho.",
+    "description": "Kim Jee-woon reimagina el clásico del Spaghetti Western con una vibrante estética oriental. La historia sigue a tres hombres que buscan un tesoro en la Manchuria ocupada por japoneses en los años 30. Con sus intensas secuencias de acción y su mezcla de humor y violencia, la película ofrece un fresco giro al género del western.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/grace-hopper.jpg",
     "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1992",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "releaseYear": "2008",
+      "durationTime": "130 min",
+      "classification": "18+",
+       
     },
     "extraInfo": {
-      "imageSource": "https://photos.com/featured/grace-hopper-with-early-computer-bettmann.html"
+       "producers": "Choi Jae-won, Choi Soon-sik, Lee Tae-hun."
     }
   },
   {
-    "id": "margaret-hamilton",
-    "name": "Margaret Hamilton",
-    "shortDescription": "Científica de la computación, lideró desarrollo de software para Apollo 11.",
-    "description": "Destacada científica de la computación que desempeñó un papel fundamental en el programa Apollo de la NASA. Fue directora de la División de Ingeniería de Software en el Laboratorio de Instrumentación del MIT, donde desarrolló el concepto de \"ingeniería de software\". Su liderazgo en el desarrollo del software de vuelo para las misiones Apollo fue fundamental para el éxito de la llegada del hombre a la Luna. Hamilton es un ejemplo de cómo la tecnología y la ciencia pueden alcanzar logros extraordinarios cuando se combinan con un enfoque innovador y una visión audaz.",
+    "id": "el-club-de-las-cinco",
+    "name": "El club de los cinco",
+    "shortDescription": "Género: Comedia, drama. Protagonistas principales principales: Emilio Estevez y Molly Ringwald.",
+    "description": "John Hughes capta la esencia de la adolescencia en esta película que sigue a cinco estudiantes durante un sábado de detención. Con su humor inteligente y personajes auténticos, \"El club de los cinco\" se ha convertido en un ícono del cine adolescente, explorando temas universales de identidad, pertenencia y rebelión.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/margaret-hamilton.jpg",
     "facts": {
-      "yearOfBirth": "1936",
-      "birthPlace": "Paoli, Indiana, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "releaseYear": "1985",
+      "durationTime": "97 min",
+      "classification": "18+",
+       
     },
     "extraInfo": {
-      "imageSource": "https://odetta.ai/blogs/margaret-hamilton-the-first-software-engineer"
+       "producers": "John Hughes."
     }
   },
   {
-    "id": "radia-perlman",
-    "name": "Radia Perlman",
-    "shortDescription": "Ingeniera de redes, inventora del algoritmo Spanning Tree.",
-    "description": "Científica de la computación estadounidense, ha dejado una marca indeleble en el mundo de las redes informáticas y la seguridad. Conocida como \"la madre de Internet\", su invención del algoritmo Spanning Tree Protocol (STP) revolucionó la conectividad de redes y sentó las bases para la infraestructura de Internet moderna. A pesar de operar en un campo dominado por hombres, Perlman ha demostrado que las mujeres pueden liderar avances tecnológicos vitales. Su compromiso con la resiliencia de las redes y la ciberseguridad ha influido en la estabilidad y confiabilidad de la comunicación en línea.",
+    "id": "lo-que-el-viento-se-llevo",
+    "name": "Lo que el viento se llevó",
+    "shortDescription": "Género: Drama, Romance. Protagonistas principales principales: Clark Gable y Vivien Leigh.",
+    "description": "\"Lo que el viento se llevó\" merece mención por su impacto perdurable. Dirigida por Victor Fleming, la película sigue la vida de Scarlett O'Hara durante y después de la Guerra Civil estadounidense. Con su épica historia de amor y su retrato de la vida en el Sur durante una época tumultuosa, se ha convertido en un clásico del cine.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/radia-perlman.jpg",
     "facts": {
-      "yearOfBirth": "1951",
-      "birthPlace": "Portsmouth, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "releaseYear": "1939",
+      "durationTime": "238 min",
+      "classification": "13+",
+       
     },
     "extraInfo": {
-      "imageSource": "https://hackaday.com/2018/05/29/spanning-the-tree-dr-radia-perlman-untangling-networks/"
+       "producers": "David O. Selznick."
     }
   },
   {
-    "id": "shafi-goldwasser",
-    "name": "Shafi Goldwasser",
-    "shortDescription": "Científica de la computación, ganadora del Premio Turing.",
-    "description": "Es una destacada criptógrafa y científica de la computación que ha contribuido significativamente a la teoría de la computación y la seguridad de la información. Su trabajo en criptografía de probabilidad y complejidad computacional ha sentado las bases para la seguridad en línea y la privacidad de datos en un mundo cada vez más digitalizado. Goldwasser es un ejemplo de cómo la ciencia de la computación puede abordar desafíos contemporáneos y proteger la información en la era de la información.",
+    "id": "la-naranja-mecanica",
+    "name": "La naranja mecánica",
+    "shortDescription": "Género: Drama. Protagonista principal: Malcolm McDowell.",
+    "description": "Stanley Kubrick adapta la novela de Anthony Burgess, explorando la violencia y la libre voluntad a través de la historia de Alex DeLarge. La película, con su estilo visual distintivo y su provocativa exploración de la psique humana, desafía al espectador a reflexionar sobre la naturaleza del bien y el mal en la sociedad.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shafi-goldwasser.jpg",
     "facts": {
-      "yearOfBirth": "1958",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "releaseYear": "1971",
+      "durationTime": "136 min",
+      "classification": "18+",
+       
     },
     "extraInfo": {
-      "imageSource": "https://www.jahresbericht2019.unibe.ch/successes_2019/einstein_lectures/index_eng.html"
+       "producers": "Stanley Kubrick."
     }
   },
   {
-    "id": "chien-shiung-wu",
-    "name": "Chien-Shiung Wu",
-    "shortDescription": "Física experimental, contribuyó a la física nuclear.",
-    "description": "Física experimental de origen chino, desafiando los prejuicios de género y nacionalidad, realizó experimentos fundamentales en física de partículas y contribuyó significativamente a la comprensión de la desintegración beta. Su famoso experimento \"Wu\" refutó la paridad en la física de partículas, lo que cambió la forma en que los científicos comprenden las fuerzas fundamentales de la naturaleza. Wu demostró que el talento y la perseverancia pueden superar cualquier barrera, y su legado sigue siendo un faro de inspiración para científicas en todo el mundo.",
+    "id": "tiburon",
+    "name": "Tiburón",
+    "shortDescription": "Género: Suspenso. Protagonistas principales princiales: Roy Scheider y Richard Dreyfuss.",
+    "description": "Steven Spielberg desencadena el terror con este clásico que sigue a un pequeño pueblo acosado por un tiburón asesino. Con su tensión implacable, efectos especiales innovadores y música icónica de John Williams, \"Tiburón\" redefine el género del suspense y establece a Spielberg como un maestro del cine de entretenimiento.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/chien-shiung-wu.jpg",
     "facts": {
-      "yearOfBirth": "1912",
-      "yearOfDeath": "1997",
-      "birthPlace": "Liuhe, Taicang, China",
-      "mainField": "Física"
+      "releaseYear": "1975",
+      "durationTime": "124 min",
+      "classification": "13+",
+       
     },
     "extraInfo": {
-      "imageSource": "https://www.thoughtco.com/chien-shiung-wu-biography-3530366"
+       "producers": "Richard D. Zanuck, David Brown."
     }
   },
   {
-    "id": "hedy-lamarr",
-    "name": "Hedy Lamarr",
-    "shortDescription": "Actriz e inventora, contribuyó al desarrollo de la tecnología de espectro ensanchado.",
-    "description": "Actriz austroamericana y científica, fue una mente brillante en la intersección de la tecnología y el entretenimiento. Junto con el compositor George Antheil, inventó un sistema de comunicación secreta durante la Segunda Guerra Mundial que sentó las bases para la tecnología de espectro ensanchado y la comunicación inalámbrica moderna. Lamarr demostró que las mujeres pueden destacar tanto en el cine como en la ciencia, y su legado como inventora ha sido fundamental para el desarrollo de la tecnología de comunicación inalámbrica que usamos en la actualidad.",
+    "id": "e-t-el-extraterrestre",
+    "name": "E.T., el extraterrestre",
+    "shortDescription": "Género: Ciencia-ficción. Protagonistas principales principales: Henry Thomas y Drew Barrymore.",
+    "description": "Steven Spielberg cautiva al público con esta tierna historia de amistad entre un niño y un extraterrestre perdido. Con su sentido de maravilla, emociones genuinas y efectos visuales impresionantes, \"E.T., el extraterrestre\" se ha convertido en un clásico querido que trasciende generaciones.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hedy-lamarr.jpg",
     "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "2000",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Actuación, Física"
+      "releaseYear": "1982",
+      "durationTime": "115 min",
+      "classification": "13+",
+      
     },
     "extraInfo": {
-      "imageSource": "https://www.sparkfun.com/news/6147"
+       "producers": "Steven Spielberg, Kathleen Kennedy, Melissa Mathison."
     }
   },
   {
-    "id": "maria-goeppert-mayer",
-    "name": "Maria Goeppert Mayer",
-    "shortDescription": "Física teórica, ganadora del Premio Nobel de Física.",
-    "description": "Física teórica alemana-estadounidense, dejó una profunda huella en la física nuclear y la mecánica cuántica. Fue la segunda mujer en recibir el Premio Nobel de Física y su trabajo pionero en la estructura de capas nucleares revolucionó nuestra comprensión de los núcleos atómicos. A pesar de las barreras de género en la academia, su dedicación y talento la llevaron a contribuir significativamente a la teoría nuclear, abriendo el camino para futuras investigadoras en un campo dominado por hombres. Maria Goeppert Mayer es un ejemplo inspirador de excelencia científica y perseverancia en la búsqueda del conocimiento.",
+    "id": "el-pianista",
+    "name": "El pianista",
+    "shortDescription": "Género: Drama. Protagonista pincipal: Adrien Brody.",
+    "description": "Roman Polanski narra la conmovedora historia real de un pianista judío que lucha por sobrevivir durante la ocupación nazi en Varsovia. La película, con su brutal honestidad y actuaciones impactantes, ofrece un testimonio poderoso sobre la resistencia humana en tiempos de tragedia.",
     "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maria-goeppert-mayer.jpg",
     "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1972",
-      "birthPlace": "Kattowitz, Alemania",
-      "mainField": "Física"
+      "releaseYear": "2002",
+      "durationTime": "150 min",
+      "classification": "18+",
+       
     },
     "extraInfo": {
-      "imageSource": "https://www.wsemexhibit.org/maria-goeppert-mayer.html"
+       "producers": "Roman Polanski, Robert Benmussa, Alain Sarde."
     }
   },
-  {
-    "id": "lise-meitner",
-    "name": "Lise Meitner",
-    "shortDescription": "Física nuclear, contribuyó a la teoría de la fisión nuclear.",
-    "description": "Física austriaca-sueca, dejó un legado imborrable en la física nuclear y la radioquímica. A pesar de enfrentar obstáculos de género en una era dominada por hombres, colaboró con Otto Hahn en el descubrimiento de la fisión nuclear, un avance revolucionario. Aunque no compartió el Premio Nobel por este logro, su contribución fue crucial para comprender la energía nuclear y la física de partículas. Su determinación y pasión por la ciencia han inspirado a generaciones de científicas. Lise Meitner es un símbolo perdurable de la perseverancia femenina y el impacto duradero que las mujeres pueden tener en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/lise-meitner.jpg",
-    "facts": {
-      "yearOfBirth": "1878",
-      "yearOfDeath": "1968",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/lise-meitner-in-nuclear-physics-lab-in-19502c-retro/651196e6bbcb4009950e9955c2199760"
-    }
-  },
-  {
-    "id": "sau-lan-wu",
-    "name": "Sau Lan Wu",
-    "shortDescription": "Física de partículas, contribuyó a experimentos clave en física de alta energía.",
-    "description": "Física experimental sinoamericana, ha sido una fuerza motriz en la física de partículas. Destacó en experimentos en el CERN y lideró investigaciones cruciales, como el descubrimiento del quark c, que expandieron nuestro entendimiento de la estructura fundamental de la materia. Wu superó desafíos en una disciplina dominada por hombres y ha sido un faro de inspiración para científicas de todo el mundo. Sau Lan Wu es un ejemplo de excelencia científica y de cómo las mujeres pueden dejar huella en la investigación de vanguardia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sau-lan-wu.jpg",
-    "facts": {
-      "yearOfBirth": "1940",
-      "birthPlace": "Hong Kong, China",
-      "mainField": "Física de Partículas"
-    },
-    "extraInfo": {
-      "imageSource": "https://repository.aip.org/islandora/object/nbla%3A315195"
-    }
-  },
-  {
-    "id": "jocelyn-bell-burnell",
-    "name": "Jocelyn Bell Burnell",
-    "shortDescription": "Astrónoma y astrofísica, co-descubridora de los púlsares.",
-    "description": "Astrofísica británica, es una figura extraordinaria en la ciencia. Durante su doctorado, hizo un descubrimiento revolucionario al detectar los primeros púlsares, estrellas de neutrones altamente magnetizadas que emiten pulsos regulares de radiación. A pesar de que su asesor recibió el Premio Nobel por este descubrimiento, Bell Burnell se ha convertido en un símbolo de perseverancia y contribución de las mujeres a la astronomía. Su carrera distinguida y su activismo en favor de la diversidad de género en la ciencia han inspirado a generaciones futuras de científicas. Jocelyn Bell Burnell es un ejemplo de valentía y excelencia científica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/jocelyn-bell-burnell.jpg",
-    "facts": {
-      "yearOfBirth": "1943",
-      "birthPlace": "Belfast, Reino Unido",
-      "mainField": "Astronomía, Astrofísica"
-    },
-    "extraInfo": {
-      "imageSource": "https://womeninscienceweadmire.icfo.eu/wiswa-2/jocelyn-bell/"
-    }
-  },
-  {
-    "id": "dorothy-crowfoot-hodgkin",
-    "name": "Dorothy Crowfoot Hodgkin",
-    "shortDescription": "Química, ganadora del Premio Nobel de Química.",
-    "description": "Química británica, es una figura icónica en la ciencia que superó las barreras de género de su época. Su trabajo revolucionario en la cristalografía de rayos X permitió determinar la estructura de importantes biomoléculas, como la penicilina, la vitamina B12 y la insulina. Fue galardonada con el Premio Nobel de Química en 1964, siendo la tercera mujer en recibir este prestigioso reconocimiento. Hodgkin no solo fue una científica excepcional, sino también una defensora de la igualdad de género en la ciencia, allanando el camino para futuras generaciones de científicas y dejando un legado duradero en la investigación y la equidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/dorothy-crowfoot-hodgkin.jpg",
-    "facts": {
-      "yearOfBirth": "1910",
-      "yearOfDeath": "1994",
-      "birthPlace": "El Cairo, Egipto / Shipston-on-Stour, Reino Unido",
-      "mainField": "Química"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.some.ox.ac.uk/news/jan-royall-why-we-must-champion-dorothy-hodgkin-for-the-50-note/"
-    }
-  },
-  {
-    "id": "marie-curie",
-    "name": "Marie Curie",
-    "shortDescription": "Física y química, ganadora de dos Premios Nobel.",
-    "description": "física y química de origen polaco y nacionalizada francesa, es una de las figuras más icónicas en la historia de la ciencia. Ganadora de dos premios Nobel (Física en 1903 y Química en 1911), Curie realizó investigaciones fundamentales sobre la radiactividad y el descubrimiento de los elementos radio y polonio. Su dedicación y valentía en la investigación científica, a pesar de los desafíos de la discriminación de género y los riesgos de la radiación, la convierten en un modelo a seguir para científicas de todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marie-curie.jpg",
-    "facts": {
-      "yearOfBirth": "1867",
-      "yearOfDeath": "1934",
-      "birthPlace": "Varsovia, Polonia",
-      "mainField": "Física y Química"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.historyextra.com/period/first-world-war/life-of-the-week-marie-curie/"
-    }
-  },
-  {
-    "id": "marjory-stephenson",
-    "name": "Marjory Stephenson",
-    "shortDescription": "Microbióloga y bioquímica, investigó en enzimología.",
-    "description": "Bioquímica británica, brilló como científica en una época en la que las mujeres enfrentaban obstáculos muy significativos en la investigación científica. Su trabajo pionero en microbiología, enzimología y bioquímica contribuyó al entendimiento de procesos fundamentales en la vida. Fue una de las primeras mujeres en ser elegida miembro de la Royal Society, un reconocimiento a su destacada contribución a la ciencia. Además, fue una mentora y defensora de las mujeres en la ciencia, inspirando y allanando el camino para futuras generaciones.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjory-stephenson.jpg",
-    "facts": {
-      "yearOfBirth": "1885",
-      "yearOfDeath": "1948",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Microbiología, Bioquímica"
-    },
-    "extraInfo": {
-      "imageSource": "https://microbiologysociety.org/grants-prizes/all-prizes-and-competitions-/prize-lectures/marjory-stephenson-prize-lecture/marjory-stephenson-a-short-history.html"
-    }
-  },
-  {
-    "id": "rosalind-franklin",
-    "name": "Rosalind Franklin",
-    "shortDescription": "Química y cristalógrafa, contribuyó a la comprensión de la estructura del ADN.",
-    "description": "Química y cristalógrafa británica, destacó en un campo dominado por hombres y su contribución a la ciencia es innegable. Sus investigaciones pioneras en la cristalografía de rayos X fueron fundamentales para revelar la estructura del ADN en forma de doble hélice, un hito crucial en la biología molecular. A pesar de que su trabajo inicial fue subestimado, su determinación y habilidad científica allanaron el camino para futuros avances en genética y biología. Franklin es un ejemplo inspirador de cómo las mujeres pueden sobresalir en la ciencia, dejando un legado duradero en la investigación y la igualdad de género.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/rosalind-franklin.jpg",
-    "facts": {
-      "yearOfBirth": "1920",
-      "yearOfDeath": "1958",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Cristalografía"
-    },
-    "extraInfo": {
-      "imageSource": ""
-    }
-  }
 ];
