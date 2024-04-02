@@ -1,4 +1,5 @@
 export default [
+<<<<<<< HEAD
   {
     "id": "psicosis",
     "name": "Psicosis",
@@ -475,4 +476,7 @@ export default [
        "producers": "Roman Polanski, Robert Benmussa, Alain Sarde."
     }
   },
+=======
+
+>>>>>>> ec0442b (borra la data para hacer pull de la dupla 1)
 ];
