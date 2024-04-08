@@ -4,10 +4,16 @@ export const renderItems = (data) => {
   const ul = document.createElement("ul");
   data.forEach(card => {
     const cardLi = document.createElement("li");
-    const p = document.createElement("p")
+    const p = document.createElement("p");
+    const img = document.createElement("img");
+    const year = document.createElement("year");
     cardLi.textContent = card.name;
-    p.textContent = card.shortDescription;  
+    p.textContent = card.shortDescription;
+    img.textContent = card.imageUrl;
+    year.textContent = card.releaseYear;
     ul.append(cardLi, p);
+    ul.append(cardLi, img);
+    ul.append(cardLi, year);
   })
   return ul;
 };
