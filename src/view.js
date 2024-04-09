@@ -6,14 +6,12 @@ export const renderItems = (data) => {
     const cardLi = document.createElement("li");
     const p = document.createElement("p");
     const img = document.createElement("img");
-    const year = document.createElement("year");
+    const h4 = document.createElement("h4");
     cardLi.textContent = card.name;
     p.textContent = card.shortDescription;
-    img.textContent = card.imageUrl;
-    year.textContent = card.releaseYear;
-    ul.append(cardLi, p);
-    ul.append(cardLi, img);
-    ul.append(cardLi, year);
+    img.src = card.imageUrl;
+    h4.textContent = card.facts.releaseYear;
+    ul.append(cardLi, img, h4, p);
   })
   return ul;
 };
