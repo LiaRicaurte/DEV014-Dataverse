@@ -1,4 +1,4 @@
-.flex-container {
+.container {
     display: flex;
     justify-content: space-evenly;
     flex-direction: row;
@@ -8,9 +8,12 @@
     height: 100vh;
   }
 
-  .flex-item {
-    order: 0; /* el valor por default es 0*/
-    flex-grow: 0;
-    align-self: baseline;
+  /*.card {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: space-around;
+    height: 100vh;
   }
-
