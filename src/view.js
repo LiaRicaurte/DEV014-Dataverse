@@ -9,7 +9,7 @@ export const renderItems = (data) => {
     const h4 = document.createElement("h4");
     cardLi.textContent = card.name;
     p.textContent = card.shortDescription;
-    img.src = card.imageUrl;
+    img.src = card.imagePath;
     h4.textContent = card.facts.releaseYear;
     ul.append(cardLi, img, h4, p);
   })
