@@ -8,12 +8,17 @@
     height: 100vh;
   }
 
- /*.flex-item {
+ .flex-item {
     display: flex;
-    justify-content: space-evenly;
-    flex-direction: row;
-    flex-wrap: wrap;
+    flex-direction: column;
     align-items: center;
-    align-content: space-around;
-    height: 100vh;
-  }
+    }
+
+    .img {
+      width: 418 px;
+      height: 800 px;
+      border: 60 px;
+      padding: 0;
+      margin: auto;
+    }
+  

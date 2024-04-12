@@ -12,9 +12,9 @@ export const renderItems = (data) => {
     const h4 = document.createElement("h4");
     
     cardLi.textContent = card.name;
-    p.textContent = card.shortDescription;
     img.src = card.imagePath;
     h4.textContent = card.facts.releaseYear;
+    p.textContent = card.shortDescription;
     
     ul.append(cardLi);
     cardLi.append(img, h4, p)
