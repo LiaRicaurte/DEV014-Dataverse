@@ -7,21 +7,25 @@ export const renderItems = (data) => {
   //
   data.forEach(card => {
     const cardLi = document.createElement("li");
+    const cardImg = document.createElement ("img")
+    const cardDiv = document.createElement ("div")
+    const h3 = document.createElement("h3")
     const p = document.createElement("p");
-    const img = document.createElement("img");
     const h4 = document.createElement("h4");
     
-    cardLi.textContent = card.name;
-    img.src = card.imagePath;
+    cardImg.src = card.imagePath;
+    h3.textContent = card.name
     h4.textContent = card.facts.releaseYear;
     p.textContent = card.shortDescription;
     
     ul.append(cardLi);
-    cardLi.append(img, h4, p)
+    cardLi.append(cardImg, cardDiv);
+    cardDiv.append(h3, h4, p)
 
     cardLi.classList.add('flex-item');
+    cardImg.classList.add('img');
+    cardDiv.classList.add('div')
     p.classList.add('p');
-    img.classList.add('img');
     h4.classList.add('h4');
   })
   return ul;

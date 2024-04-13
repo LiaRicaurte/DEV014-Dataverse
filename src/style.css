@@ -8,17 +8,25 @@
     height: 100vh;
   }
 
- .flex-item {
+.flex-item {
+    width: 500px;
+    height: 1000px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    }
+  }
 
-    .img {
-      width: 418 px;
-      height: 800 px;
-      border: 60 px;
+.img {
+      width: 500px;
+      height: 800px;
+      object-fit: cover;
+      border: 60px;
       padding: 0;
-      margin: auto;
-    }
-  
+      margin: auto; 
+  }
+
+  .div {
+    width: 500px;
+    height: 200px;
+    background-color: #D2B48C;
+  }
