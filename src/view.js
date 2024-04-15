@@ -15,16 +15,17 @@ export const renderItems = (data) => {
     
     cardImg.src = card.imagePath;
     h3.textContent = card.name
-    h4.textContent = card.facts.releaseYear;
     p.textContent = card.shortDescription;
+    h4.textContent = card.facts.releaseYear;
     
     ul.append(cardLi);
     cardLi.append(cardImg, cardDiv);
-    cardDiv.append(h3, h4, p)
+    cardDiv.append(h3, p, h4)
 
     cardLi.classList.add('flex-item');
     cardImg.classList.add('img');
     cardDiv.classList.add('div')
+    h3.classList.add('h3');
     p.classList.add('p');
     h4.classList.add('h4');
   })
