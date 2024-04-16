@@ -1,3 +1,39 @@
+header {
+    background-color: #607d8b;
+    color: #fffff0;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: center; 
+    padding: 5px;
+    padding-bottom: 0px;
+    margin: 0;
+    background-image: url(https://cdn.leonardo.ai/users/293e26a3-e26f-4468-899a-c93d2287e53d/generations/7c62f74c-5dbe-4bb1-b2dc-e47e3d3c20c6/Default_Create_a_classic_cinema_website_cover_with_an_empty_mo_3.jpg);
+    background-size: cover; 
+    background-position: top;
+    background-repeat: no-repeat;
+    width: auto;
+    height: auto;
+    object-fit: cover;
+  }
+
+  header h1 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+  }
+
+  .filtrados {
+    background-color: #800020;
+    color: #fffff0;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 0px;
+    float: center; 
+    text-align: center; 
+    padding: 1px; 
+}
+
 .flex-container {
     display: flex;
     justify-content: space-evenly;
@@ -9,96 +45,68 @@
 }
 
 .flex-item {
-    width: 600px;
-    height: 1000px;
+    width: 250px;
+    height: 450px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 50px;
+    margin: 25px;
 }
 
 .img {
-    width: 600px;
-    height: 800px;
+    width: 250px;
+    height: 350px;
     object-fit: cover;
     padding: 0;
-    border-radius: 40px;
+    border-radius: 15px;
 }
 
 .div {
-    width: 600px;
-    height: 200px;
+    width: 250px;
+    height: 100px;
     display: flex;
     flex-direction: column;
     align-content: space-around;
     justify-content: space-evenly;
     background-color: #D2B48C;
-    border-radius: 40px;
+    border-radius: 15px;
 
 }
 
 .h3 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 200%;
+    font-size: 100%;
     margin: auto;
-    margin-left: 30px;
-    margin-top: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
 }
   
 .p {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 150%;
+    font-size: 75%;
     margin: auto;
-    margin-left: 30px;
-    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
 }
 
 .h4 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 150%;
+    font-size: 75%;
     margin: auto;
-    margin-right: 50px;
-    margin-bottom: 30px;
-  }
+    margin-right: 20px;
+    margin-bottom: 10px;
 
-  header {
-    background-color: #607d8b;
-    color: #fffff0;
-    font-family: Arial, sans-serif;
-    font-size: 50px;
-    text-align: center;
-    padding: 10px 0;
-    margin: 0;
-    /*background-image: url('imagen.jpg');
-    background-size: cover; 
-    background-position: center;
-    background-repeat: no-repeat; */
-  }
-
+}
+  
   footer {
     background-color: #607d8b;
     color: #fffff0;
     font-family: Arial, sans-serif;
-    font-size: 50px;
+    font-size: 15px;
     text-align: left;
     line-height: 0.5;
     padding: 10px 0;
     padding-left: 100px;
     margin: 0;
   }
-
-  header h1 {
-    font-weight: bold;
-    font-size: 90px;
-  }
-
-  .filtrados {
-    background-color: #800020;
-    color: #fffff0;
-    font-family: Arial, sans-serif;
-    font-size: 50px;
-    text-align: center;
-    float: center; 
-    text-align: center; 
-    padding-top: 20px; 
-}
