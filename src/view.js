@@ -1,5 +1,5 @@
 export const renderItems = (data) => {
-  console.log(data)
+  
   // crear un elemento ul
   const ul = document.createElement("ul");
   //agregar un metodo que permite poner estilos al elemento ul
@@ -7,6 +7,8 @@ export const renderItems = (data) => {
   //
   data.forEach(movie => {
     const movieLi = document.createElement("li");
+    movieLi.setAttribute('itemscope', '')
+    movieLi.setAttribute('itemtype', movie.id)
     const semanticHTML= `
     <dl itemscope itemtype="ClassicMovies">
     <img src="${movie.imagePath}" alt="${movie.name}" />

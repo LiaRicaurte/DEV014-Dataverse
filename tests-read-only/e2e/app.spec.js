@@ -8,6 +8,7 @@ test.describe('Pagina interraciones', () => {
 
   const getItempropValues = async (page, property) => {
     const liElements = await page.$$(liSelector);
+    console.log(liElements);
     const values = await Promise.all(liElements.map(async li => {
       const value = await li.$eval(`[itemprop=${property}]`, (el) => el.textContent);
       return value;
