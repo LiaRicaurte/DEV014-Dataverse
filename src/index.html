@@ -14,13 +14,27 @@
         <h3>¡Sumérgete en su historia!</h3>
       </div>
       <div class="filtrados">
-        <p>Aquí van todos los filtros</p>
+        <label for="filterGender">Filtrar por género</label>
+    <select data-testid="select-filter" name="gender">
+      <option value="Selecciona">   </option>
+      <option value="Drama">Drama</option>
+      <option value="Ciencia Ficción">Ciencia Ficción</option>
+      <option value="Terror">Terror</option>
+      <option value="Comedia">Comedia</option>
+    </select>
+    <label for="filterYear">Filtrar por año</label>
+    <select data-testid="select-filter" name="year">
+      <option value="Selecciona">    </option>
+      <option value="40">Década de los 40'</option>
+      <option value="50">Década de los 50'</option>
+      <option value="60">Década de los 60'</option>
+      <option value="70">Década de los 70'</option>
+      <option value="80">Década de los 80'</option>
+      <option value="90">Década de los 90'</option>
+      <option value="2000">Década de los 2000'</option>
+    </select>
       </div>
     </header>
-    <label for="algo">Aqui va el filtro</label>
-    <select name="algo" id="algo">
-      <option value="selecciona">selecciona</option>
-    </select>
     <div id="root"></div> 
     <footer>
       <p>Autoras:</p>
