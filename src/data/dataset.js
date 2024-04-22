@@ -80,7 +80,7 @@ export default [
   {
     "id": "pulp-fiction",
     "name": "Pulp Fiction",
-    "shortDescription": "Género: Crimen y drama. Protagonistas principales: John Travolta y Uma Thurman.",
+    "shortDescription": "Género: Crimen, drama. Protagonistas principales: John Travolta y Uma Thurman.",
     "description": "Dirigida por Quentin Tarantino, \"Pulp Fiction\" desafía las convenciones narrativas con su estructura no lineal y su mezcla de violencia, diálogos ingeniosos y referencias pop. La película sigue múltiples historias entrelazadas en el submundo criminal de Los Ángeles, destacando la peculiaridad de sus personajes y situaciones. Tarantino, conocido por su estilo visual distintivo y su habilidad para crear diálogos memorables, entrega una obra audaz y estimulante que redefine el cine de gangsters y establece nuevos estándares para el cine independiente.",
     "imagePath": "data/img/pulp-fiction.jpg",
     "facts": {

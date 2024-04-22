@@ -1,9 +1,9 @@
-// Estas funciones son ejemplos, aquí puedes desarrollar tus propias funciones.
+export function filterData(data, filterBy, value) {
+  let filterResult = []
 
-export const example = () => {
-  return 'example';
-};
+  filterResult = data.filter((movie) => {
+    return movie[filterBy].includes(value)
+  })
+  return filterResult
 
-export const anotherExample = () => {
-  return [];
-};
+}
