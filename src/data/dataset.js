@@ -48,7 +48,7 @@ export default [
   {
     "id": "2001-una-odisea-del-espacio",
     "name": "2001: Una odisea del espacio",
-    "shortDescription": "Género: Ciencia ficción, exploración espacial. Protagonistas principales: Keir Dullea.",
+    "shortDescription": "Género: Ciencia ficción. Protagonistas principales: Keir Dullea.",
     "description": "Stanley Kubrick revoluciona el género de ciencia ficción con este film, una meditación sobre la evolución, la inteligencia artificial y la existencia extraterrestre. La película sigue una odisea a través del tiempo, desde el amanecer de la humanidad hasta un futuro espacial, marcado por el enigmático monolito y la misión al espacio exterior liderada por el HAL 9000, una inteligencia artificial con conciencia propia. Kubrick combina efectos visuales pioneros, una narrativa ambigua y una banda sonora icónica para explorar grandes temas filosóficos, creando una experiencia cinematográfica que invita a múltiples interpretaciones y ha fascinado a audiencias y críticos por décadas.",
     "imagePath": "data/img/odisea.jpg",
     "facts": {
@@ -64,7 +64,7 @@ export default [
   {
     "id": "star-wars",
     "name": "Star Wars: Episodio IV - Una nueva esperanza",
-    "shortDescription": "Género: Aventura espacial. Protagonistas principales: Mark Hamill y Carrie Fisher.",
+    "shortDescription": "Género: Ficción. Protagonistas principales: Mark Hamill y Carrie Fisher.",
     "description": "George Lucas transformó el cine de ciencia ficción y la cultura popular con \"Star Wars: Episodio IV - Una nueva esperanza\". Introduciendo al mundo a Luke Skywalker, Leia Organa, Han Solo y Darth Vader, Lucas teje una épica historia de aventura, heroísmo y redención contra la opresiva tiranía del Imperio Galáctico. Con innovadores efectos especiales, una narrativa mitológica y personajes icónicos, Star Wars no solo inauguró una de las franquicias más exitosas y queridas de todos los tiempos, sino que también redefinió el concepto de blockbusters, mezclando perfectamente la acción, la ciencia ficción y la aventura.",
     "imagePath": "data/img/star-wars.jpg",
     "facts": {
@@ -80,7 +80,7 @@ export default [
   {
     "id": "pulp-fiction",
     "name": "Pulp Fiction",
-    "shortDescription": "Género: Crimen, drama. Protagonistas principales: John Travolta y Uma Thurman.",
+    "shortDescription": "Género: Drama criminal. Protagonistas principales: John Travolta y Uma Thurman.",
     "description": "Dirigida por Quentin Tarantino, \"Pulp Fiction\" desafía las convenciones narrativas con su estructura no lineal y su mezcla de violencia, diálogos ingeniosos y referencias pop. La película sigue múltiples historias entrelazadas en el submundo criminal de Los Ángeles, destacando la peculiaridad de sus personajes y situaciones. Tarantino, conocido por su estilo visual distintivo y su habilidad para crear diálogos memorables, entrega una obra audaz y estimulante que redefine el cine de gangsters y establece nuevos estándares para el cine independiente.",
     "imagePath": "data/img/pulp-fiction.jpg",
     "facts": {
@@ -190,7 +190,7 @@ export default [
   {
     "id": "el-senor-de-los-anillos",
     "name": "El señor de los anillos: La comunidad del anillo",
-    "shortDescription": "Género: Aventura de fantasía. Protagonistas principales: Elijah Wood.",
+    "shortDescription": "Género: Ficción. Protagonistas principales: Elijah Wood.",
     "description": "Peter Jackson trae a la gran pantalla \"El señor de los anillos: La comunidad del anillo\", la primera entrega de la épica trilogía basada en la novela de J.R.R. Tolkien. La película sigue la peligrosa travesía de Frodo Bolsón, un hobbit que debe destruir un anillo de poder para salvar la Tierra Media del oscuro señor Sauron. Jackson combina efectos visuales impresionantes, una narrativa épica y actuaciones memorables para sumergir al espectador en el vasto mundo de Tolkien. La película estableció un nuevo estándar para las adaptaciones de fantasía y un testimonio del poder del cine para crear mundos completos.",
     "imagePath": "data/img/el-señor-de-los-anillos.jpg",
     "facts": {
@@ -237,7 +237,7 @@ export default [
   {
     "id": "los-siete-samurais",
     "name": "Los siete samuráis",
-    "shortDescription": "Género: Drama, Acción. Potagonista principal: Toshiro Mifune.",
+    "shortDescription": "Género: Drama; Acción. Potagonista principal: Toshiro Mifune.",
     "description": "Dirigida por Akira Kurosawa, \"Los siete samuráis\" es un clásico del cine japonés que combina acción, drama y filosofía. La película sigue a un grupo de samuráis que son contratados para proteger a un pueblo campesino de los ataques de bandidos. Kurosawa, conocido por su maestría en la dirección y su enfoque en la ética y el honor, ofrece una épica historia de sacrificio y camaradería. Con su intrincada narrativa y emocionantes escenas de batalla, \"Los siete samuráis\" es una obra maestra del cine que sigue siendo influyente hasta el día de hoy.",
     "imagePath": "data/img/los-siete-samurais.jpg",
     "facts": {
@@ -269,7 +269,7 @@ export default [
   {
     "id": "el-graduado",
     "name": "El Graduado",
-    "shortDescription": "Género: Comedia, Drama. Protagonistas principales: Dustin Hoffman y Anne Bancroft.",
+    "shortDescription": "Género: Comedia; Drama. Protagonistas principales: Dustin Hoffman y Anne Bancroft.",
     "description": "Dirigida por Mike Nichols, \"El Graduado\" es una sátira cultural que captura el espíritu de la juventud de la década de 1960. La película sigue a Benjamin Braddock, interpretado por Dustin Hoffman, un joven recién graduado que se encuentra atrapado en un triángulo amoroso con la esposa de su padre y su hija. Nichols aborda temas de alienación, rebeldía y conformismo en la sociedad estadounidense, creando una obra que resuena con la audiencia hasta el día de hoy. Con su estilo visual y la icónica banda sonora de Simon & Garfunkel, \"El Graduado\" sigue siendo una obra relevante y provocativa.",
     "imagePath": "data/img/el-graduado.jpg",
     "facts": {
@@ -317,7 +317,7 @@ export default [
   {
     "id": "la-la-land",
     "name": "La La Land",
-    "shortDescription": "Género: Musical romántico moderno. Protgonistas principales: Ryan Gosling y Emma Stone.",
+    "shortDescription": "Género: Musical romántico. Protgonistas principales: Ryan Gosling y Emma Stone.",
     "description": "\"La La Land\", dirigida por Damien Chazelle, es un vibrante homenaje a los musicales clásicos de Hollywood, contando la historia de amor entre una aspirante a actriz y un músico de jazz, interpretados por Emma Stone y Ryan Gosling. La película captura la magia y el espíritu de Los Ángeles mientras explora los sueños, las esperanzas y los desafíos de perseguir una pasión. Con su banda sonora memorable, coreografías impresionantes y una cinematografía colorida, Chazelle crea una experiencia cinemática que es tanto una carta de amor al cine como una reflexión sobre el arte y el sacrificio.",
     "imagePath": "data/img/la-la-land.jpg",
     "facts": {
@@ -365,7 +365,7 @@ export default [
   {
     "id": "el-bueno-el-malo-y-el-raro",
     "name": "El bueno, el malo y el raro.",
-    "shortDescription": "Género: Western, acción coreano. Protagonista principal: Song Kang-ho.",
+    "shortDescription": "Género: Western; Acción coreana. Protagonista principal: Song Kang-ho.",
     "description": "Dirigida por Kim Jee-woon, este film es un vibrante western de acción situado en la Manchuria de los años 30. Inspirada en el clásico \"El bueno, el feo y el malo\", la película sigue a tres coreanos —un cazador de recompensas, un asesino y un ladrón— en su búsqueda de un tesoro enterrado. Con secuencias de acción espectaculares, humor único y una estética visual impresionante, Kim crea una reinterpretación emocionante del género western. La película destaca por su energía infecciosa, personajes carismáticos y una dirección que combina a la perfección el drama, la acción y el humor.",
     "imagePath": "data/img/el-bueno-el-malo-y-el-raro.jpg",
     "facts": {
