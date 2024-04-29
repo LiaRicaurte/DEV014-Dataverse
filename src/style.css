@@ -111,10 +111,13 @@ dd[itemprop="releaseYear"] {
 
   select {
     flex: 1;
+    cursor: pointer;
+    pointer-events: painted;
     background-color: #333333;
     color: #fffff0;
     font-family: Arial, sans-serif;
     font-size: 15px;
+    height: auto;
     text-align: center;
     padding: 10px 0;
     margin: 0;
