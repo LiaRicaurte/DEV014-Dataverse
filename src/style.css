@@ -108,3 +108,16 @@ dd[itemprop="releaseYear"] {
     padding-left: 100px;
     margin: 0;
   }
+
+  select {
+    flex: 1;
+    background-color: #333333;
+    color: #fffff0;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 0;
+    margin: 0;
+    border: 0;
+    border-radius: 10px;
+  }
