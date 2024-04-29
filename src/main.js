@@ -1,4 +1,4 @@
-import { filterData } from './dataFunctions.js';
+import { filterData, sortData } from './dataFunctions.js';
 import data from './data/dataset.js';
 import { renderItems } from './view.js';
 
@@ -6,14 +6,24 @@ import { renderItems } from './view.js';
 
 const root = document.querySelector("#root")
 const selectorGenre = document.querySelector('select[name="genre"]');
-
+const selectorYear = document.querySelector('select[name="year"]');
+let filterReturn= data;
+let sortValue = 'selecciona';
 selectorGenre.addEventListener('change', function(event) {
-  const filterReturn = filterData(data,'shortDescription', event.target.value);
+  filterReturn = filterData(data,'shortDescription', event.target.value);
   //console.log('Ver filtro: ', filterReturn);
   //console.log("Valor seleccionado: ", event.target.value);
-  
+  const orderReturn = sortData(filterReturn,'releaseYear',sortValue);
   root.innerHTML = ''
-  root.append(renderItems(filterReturn))
+  root.append(renderItems(orderReturn));
+})
+selectorYear.addEventListener('change', function(event) {
+  sortValue =event.target.value;
+  const orderReturn = sortData(filterReturn,'releaseYear',event.target.value);
+  //console.log('Ver orden: ', orderReturn);
+  //console.log("Valor seleccionado: ", event.target.value);
+  root.innerHTML = ''
+  root.append(renderItems(orderReturn));
 })
 
 root.append(renderItems(data));
