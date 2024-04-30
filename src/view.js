@@ -13,7 +13,7 @@ export const renderItems = (data) => {
     
     const semanticHTML= `
     <dl itemscope itemtype="ClassicMovies">
-    <img src="${movie.imagePath}" alt="${movie.name}" />
+    <img src="${movie.imageUrl}" alt="${movie.name}" />
     <dd itemprop="name">${movie.name}</dd>
     <dd itemprop="shortDescription">${movie.shortDescription}</dd>
     <dd itemprop="releaseYear">${movie.facts.releaseYear}</dd>
