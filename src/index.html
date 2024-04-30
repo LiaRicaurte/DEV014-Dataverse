@@ -13,7 +13,7 @@
           <p>Si amas el cine, ¡esto es para ti!<br>Aquí podrás encontrar las películas más aclamadas<br>de la historia y todos sus detalles.</p>
       </div>
       <div class="filtrados">
-        <label for="filterGenre">Filtrar por género</label>
+        <label for="">Filtrar por género</label>
         <select data-testid="select-filter" name="genre">
           <option value="selecciona"></option>
           <option value="Drama">Drama</option>
@@ -25,12 +25,13 @@
           <option value="Western">Western</option>
         </select>
         
-        <label for="orderYear">Ordenar por año</label>
+        <label for="">Ordenar por año</label>
         <select data-testid="select-sort" name="year">
           <option value="selecciona"></option>
           <option value="asc">1941-2016</option>
           <option value="desc">2016-1941</option>
         </select>
+        <button id="limpiarFiltros">Limpiar</button>
       </div>
     </header>
     <div id="root"></div> 

@@ -26,4 +26,12 @@ selectorYear.addEventListener('change', function(event) {
   root.append(renderItems(orderReturn));
 })
 
+const buttomClean = document.getElementById('limpiarFiltros');
+buttomClean.addEventListener('click', function() {
+  selectorGenre.selectedIndex = 0;
+  selectorYear.selectedIndex = 0;
+  root.innerHTML = ''
+  root.append(renderItems(data));
+})
+
 root.append(renderItems(data));
