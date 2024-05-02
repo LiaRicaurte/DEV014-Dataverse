@@ -1,5 +1,4 @@
 export const renderItems = (data) => {
-  
   // crear un elemento ul
   const ul = document.createElement("ul");
   //agregar un metodo que permite poner estilos al elemento ul

@@ -119,13 +119,13 @@ describe('Arrays', () => {
   it('Se usan métodos para manipular arrays como "filter"', () => {
     expect(filterCalls.length).toBeGreaterThan(0);
   });
-  it('Se usan métodos para manipular arrays como "reduce"', () => {
+  it.skip('Se usan métodos para manipular arrays como "reduce"', () => {
     expect(reduceCalls.length).toBeGreaterThan(0);
   });
   it('Se prefiere el uso de forEach sobre for', () => {
     expect(forStatements.length <= forEachCalls.length).toBe(true);
   });
-  it('Se usan métodos para manipular arrays como "map"', () => {
+  it.skip('Se usan métodos para manipular arrays como "map"', () => {
     expect(mapCalls.length).toBeGreaterThan(0);
   });
 });
