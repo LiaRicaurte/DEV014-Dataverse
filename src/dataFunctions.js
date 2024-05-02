@@ -7,15 +7,10 @@ export function filterData(data, filterBy, value) {
     return movie[filterBy].includes(value)
   })
   return filterResult
-
 }
 
 export function sortData(data, sortBy, sortOrder) {
-//sacar una copia al array data
-//declarar una variable que guarde el resultado del ordenado.
-//Usar método sort
-//retornar variable que tiene el resultado del orden.
-  const copiaData = data; // Esta es una copia independiente del array original
+  const copiaData = data;
   const copiaCorrecta = copiaData.sort((firstDate , lastDate) => {
     if (sortOrder === 'asc') {
       return firstDate.facts[sortBy] - lastDate.facts[sortBy];
