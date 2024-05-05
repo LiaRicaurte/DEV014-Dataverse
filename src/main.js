@@ -1,6 +1,7 @@
-//import { example } from './dataFunctions.js';
-//import { renderItems } from './view.js';
 
-//import data from './data/dataset.js';
+import data from './data/dataset.js';
+import { renderItems } from './view.js';
 
-//console.log(example, renderItems(data), data);
+const root = document.querySelector("#root")
+root.append(renderItems(data))
+//console.log(renderItems(data), data);

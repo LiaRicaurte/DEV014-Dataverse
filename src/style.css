@@ -1,0 +1,120 @@
+header {
+    background-color: #607d8b;
+    color: #fffff0;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: left; 
+    padding: 5px;
+    padding-bottom: 0px;
+    background-image: url(https://cdn.leonardo.ai/users/293e26a3-e26f-4468-899a-c93d2287e53d/generations/42f300c3-ca00-4b84-b2c0-162abe4298b2/Default_Create_a_cinema_website_cover_with_the_tittle_clasicos_0.jpg);
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    width: auto;
+    height: auto;
+    object-fit: cover;
+  }
+
+  header h1 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    margin-left: 30px;
+  }
+
+  header div {
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    margin-left: 30px;
+  }
+
+  .filtrados {
+    background-color: #800020;
+    opacity: .7;
+    color: #fffff0;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 0px;
+    float: center; 
+    text-align: center; 
+    padding: 1px; 
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: space-around;
+    background-color: #607D8B;
+}
+
+.flex-item {
+    width: 250px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    background-color: #D2B48C;
+    border-radius: 15px;
+    margin: 25px;
+}
+
+img {
+    width: 250px;
+    height: 350px;
+    object-fit: cover;
+    padding: 0;
+    border-radius: 15px;
+}
+
+/*.div {
+    width: 250px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: space-evenly;
+    background-color: #D2B48C;
+    border-radius: 15px;
+}*/
+
+dd[itemprop="name"] {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    font-weight: bold;
+    margin: auto;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+  
+dd[itemprop="shortDescription"] {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75%;
+    margin: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+dd[itemprop="releaseYear"] {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75%;
+    margin-right: 20px;
+    margin-bottom: 10px;
+
+}
+  
+  footer {
+    background-color: #607d8b;
+    color: #fffff0;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    text-align: left;
+    line-height: 0.5;
+    padding: 10px 0;
+    padding-left: 100px;
+    margin: 0;
+  }

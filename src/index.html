@@ -1,11 +1,32 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
   <head>
     <meta charset="utf-8">
     <title>Dataverse</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <header>
+      <h1>Clásicos del Cine</h1>
+      <div>
+        <h2>¡Bienvenid@ Cinefil@!</h2>
+          <p>Si amas el cine, ¡esto es para ti!<br>Aquí podrás encontrar las películas más aclamadas<br>de los últimos 30 años y todos sus detalles,</p>
+        <h3>¡Sumérgete en su historia!</h3>
+      </div>
+      <div class="filtrados">
+        <p>Aquí van todos los filtros</p>
+      </div>
+    </header>
+    <label for="algo">Aqui va el filtro</label>
+    <select name="algo" id="algo">
+      <option value="selecciona">selecciona</option>
+    </select>
+    <div id="root"></div> 
+    <footer>
+      <p>Autoras:</p>
+      <p>Yomely Gómez</p>
+      <p>Ana Lía Ricaurte</p>
+    </footer>
     <script src="main.js" type="module"></script>
   </body>
 </html>
