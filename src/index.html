@@ -10,17 +10,30 @@
       <h1>Clásicos del Cine</h1>
       <div>
         <h2>¡Bienvenid@ Cinefil@!</h2>
-          <p>Si amas el cine, ¡esto es para ti!<br>Aquí podrás encontrar las películas más aclamadas<br>de los últimos 30 años y todos sus detalles,</p>
-        <h3>¡Sumérgete en su historia!</h3>
+          <p>Si amas el cine, ¡esto es para ti!<br>Aquí podrás encontrar las películas más aclamadas<br>de la historia y todos sus detalles.</p>
       </div>
       <div class="filtrados">
-        <p>Aquí van todos los filtros</p>
+        <label for="shortDescription">Filtrar por género</label>
+        <select data-testid="select-filter" name="shortDescription" id="shortDescription">
+          <option value="selecciona"></option>
+          <option value="Drama">Drama</option>
+          <option value="Thriller">Thriller</option>
+          <option value="Ciencia ficción">Ciencia ficción</option>
+          <option value="Acción">Acción</option>
+          <option value="Comedia">Comedia</option>
+          <option value="Terror">Terror</option>
+          <option value="Western">Western</option>
+        </select>
+      
+        <label for="releaseYear">Ordenar por año</label>
+        <select data-testid="select-sort" name="releaseYear" id="releaseYear">
+          <option value="selecciona"></option>
+          <option value="asc">1941-2016</option>
+          <option value="desc">2016-1941</option>
+        </select>
+        <button data-testid="button-clear" id="buttonClear">Limpiar</button>
       </div>
     </header>
-    <label for="algo">Aqui va el filtro</label>
-    <select name="algo" id="algo">
-      <option value="selecciona">selecciona</option>
-    </select>
     <div id="root"></div> 
     <footer>
       <p>Autoras:</p>
