@@ -6,12 +6,12 @@ const root = document.querySelector("#root")
 const selectorGenre = document.querySelector('select[name="shortDescription"]');
 const selectorYear = document.querySelector('select[name="releaseYear"]');
 
-let filterReturn= data;
+let filterReturn = data;
 let sortValue = 'selecciona';
 
 selectorGenre.addEventListener('change', function(event) {
   filterReturn = filterData(data,'shortDescription', event.target.value);
-  const orderReturn = sortData(filterReturn,'releaseYear',sortValue);
+  const orderReturn = sortData(filterReturn,'releaseYear', sortValue);
   root.innerHTML = ''
   root.append(renderItems(orderReturn));
 })

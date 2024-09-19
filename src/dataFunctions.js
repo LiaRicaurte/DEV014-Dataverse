@@ -10,13 +10,17 @@ export function filterData(data, filterBy, value) {
 }
 
 export function sortData(data, sortBy, sortOrder) {
-  const copiaData = data;
-  const copiaCorrecta = copiaData.sort((firstDate , lastDate) => {
+  const originalCopy = data;
+  const newCopy = data 
+
+  newCopy.sort((firstDate, lastDate) => {
     if (sortOrder === 'asc') {
       return firstDate.facts[sortBy] - lastDate.facts[sortBy];
+    }  if (sortOrder === 'selecciona') {
+      return originalCopy;
     } else {
       return lastDate.facts[sortBy] - firstDate.facts[sortBy];
     }
-  });
-  return copiaCorrecta;
+  })
+  return newCopy;
 }
