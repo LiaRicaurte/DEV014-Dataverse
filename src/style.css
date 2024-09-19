@@ -54,7 +54,7 @@ header {
 
 .flex-item {
     width: 250px;
-    height: 450px;
+    height: 100px;
     display: flex;
     flex-direction: column;
     background-color: #D2B48C;

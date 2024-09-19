@@ -1,9 +1,8 @@
 export const renderItems = (data) => {
-  // crear un elemento ul
   const ul = document.createElement("ul");
-  //agregar un metodo que permite poner estilos al elemento ul
+  
   ul.classList.add('flex-container');
-  //utilizar método forEach para iterar sobre la data
+  
   data.forEach(movie => {
     const movieLi = document.createElement("li");
     
